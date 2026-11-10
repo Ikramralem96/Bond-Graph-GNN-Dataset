@@ -53,7 +53,7 @@ It contains the collection of graph samples used for multi-domain Bond Graph res
 
 ## 5. Repository Structure
 
-The repository is organized as follows:
+The planned repository structure is as follows:
 
 ```text
 Bond-Graph-GNN-Dataset/
