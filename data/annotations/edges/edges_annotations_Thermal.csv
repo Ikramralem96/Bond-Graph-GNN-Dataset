@@ -1,0 +1,1449 @@
+graph_id,source,target,causality,domain
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J11,R1,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J11,R2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J11,R3,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,TF1,J11,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J12,TF1,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J12,TF2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,TF2,R4,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,TF3,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,R5,TF3,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,TF4,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,R6,TF4,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,J11,R1,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,J11,R2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,J11,R3,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,TF1,J11,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,J12,TF1,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,J12,TF2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,TF2,R4,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,TF3,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,R5,TF3,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,TF4,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,R6,TF4,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J11,R1,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J11,R2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J11,R3,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,TF1,J11,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J12,TF1,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J12,TF2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,TF2,R4,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,TF3,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,R5,TF3,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,TF4,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,R6,TF4,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J11,R1,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J11,R2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J11,R3,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,TF1,J11,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J12,TF1,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J12,TF2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,TF2,R4,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,TF3,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,R5,TF3,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,TF4,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,R6,TF4,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,Sf1,J11,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J11,Df1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J11,J01,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J01,De1,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J01,C1,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J01,TF1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,TF1,J02,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J02,De2,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,De2,C2,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,C2,Sf1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J01,J12,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J12,R1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J12,Df2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J12,Se1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,Se2,TF2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J11,TF2,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,TF2,J03,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J03,C2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J03,TF3,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J03,De3,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J13,J03,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,De3,C3,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,C3,Sf2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,Sf2,J13,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J13,Df3,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J12,TF3,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,TF3,Se3,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J11,R1,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J11,R2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J11,R3,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,TF1,J11,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J12,TF1,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,J12,TF2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,TF2,R4,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,TF3,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,R5,TF3,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,TF4,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2) - Copie.jpg,R6,TF4,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,J11,R1,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,J11,R2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,J11,R3,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,TF1,J11,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,J12,TF2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,TF2,R4,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,TF3,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,R5,TF3,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,TF4,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (2).jpg,R6,TF4,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J11,R1,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J11,R2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J11,R3,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,TF1,J11,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J12,TF1,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,J12,TF2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,TF2,R4,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,TF3,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,R5,TF3,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,TF4,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3) - Copie.jpg,R6,TF4,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J11,R1,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J11,R2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J11,R3,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,TF1,J11,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J12,TF1,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,J12,TF2,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,TF2,R4,at_source,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,TF3,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,R5,TF3,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,TF4,J12,at_target,Thermal
+1-s2.0-S0360319922013970-gr2 - Copie (3).jpg,R6,TF4,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,Sf1,J11,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J11,Df1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J11,J01,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J01,De1,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J01,C1,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J01,TF1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,TF1,J02,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J02,De2,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,De2,C2,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,C2,Sf1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J01,J12,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J12,R1,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J12,Df2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J12,Se1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,Se2,TF2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J11,TF2,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J12,J03,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J03,C2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J03,TF3,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J03,De3,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J13,J03,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,De3,C3,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,C3,Sf2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,Sf2,J13,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J13,Df3,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,J12,TF3,at_source,Thermal
+1-s2.0-S0967066105000328-gr1 - Copie.jpg,TF3,Se3,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,Sf1,J11,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J11,Df1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J11,J01,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J01,De1,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J01,C1,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J01,TF1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,TF1,J02,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J02,De2,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,De2,C2,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,C2,Sf1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J01,J12,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J12,R1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J12,Df2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J12,Se1,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,Se2,TF2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J11,TF2,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,TF2,J03,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J03,C2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J03,TF3,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J03,De3,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J13,J03,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,De3,C3,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,C3,Sf2,at_target,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,Sf2,J13,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J13,Df3,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,J12,TF3,at_source,Thermal
+1-s2.0-S0967066105000328-gr1.jpg,TF3,Se3,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,Sf1,J01,at_source,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J01,C1,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J01,J11,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J01,De1,at_source,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J11,R1,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J11,J02,at_source,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J02,C2,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J02,J12,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J02,De2,at_source,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J12,R2,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1 - Copie.jpg,J12,Se1,at_source,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,Sf1,J01,at_source,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J01,C1,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J01,J11,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J01,De1,at_source,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J11,R1,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J11,J02,at_source,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J02,C2,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J02,J12,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J02,De2,at_source,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J12,R2,at_target,Thermal
+1-s2.0-S1569190X05000717-gr1.jpg,J12,Se1,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,Se1,GY1,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,GY1,TF1,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,TF1,J01,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J01,I1,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J01,GY2,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,GY2,J02,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J02,GY3,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,GY3,J03,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J03,I2,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J03,TF2,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,TF2,J11,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J11,R1,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J11,C1,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J02,GY4,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,GY4,J04,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J04,I3,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J04,TF3,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,TF3,J12,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J12,R2,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1) - Copie.png,J12,C2,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,Se1,GY1,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1).png,GY1,TF1,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,TF1,J01,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J01,I1,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J01,GY2,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,GY2,J02,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J02,GY3,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1).png,GY3,J03,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J03,I2,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J03,TF2,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,TF2,J11,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J11,R1,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J11,C1,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J02,GY4,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1).png,GY4,J04,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J04,I3,at_target,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J04,TF3,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,TF3,J12,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J12,R2,at_source,Thermal
+393700_1_En_9_Fig21_HTML (1).png,J12,C2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,Se1,GY1,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,GY1,TF1,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,TF1,J01,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J01,I1,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J01,GY2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,GY2,J02,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J02,GY3,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,GY3,J03,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J03,I2,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J03,TF2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,TF2,J11,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J11,R1,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J11,C1,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J02,GY4,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,GY4,J04,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J04,I3,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J04,TF3,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,TF3,J12,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J12,R2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie (2).png,J12,C2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,Se1,GY1,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,GY1,TF1,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,TF1,J01,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J01,I1,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J01,GY2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,GY2,J02,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J02,GY3,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,GY3,J03,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J03,I2,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J03,TF2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,TF2,J11,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J11,R1,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J11,C1,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J02,GY4,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,GY4,J04,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J04,I3,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J04,TF3,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,TF3,J12,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J12,R2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie - Copie.png,J12,C2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,Se1,GY1,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,GY1,TF1,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,TF1,J01,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J01,I1,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J01,GY2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,GY2,J02,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J02,GY3,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,GY3,J03,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J03,I2,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J03,TF2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,TF2,J11,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J11,R1,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J11,C1,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J02,GY4,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,GY4,J04,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J04,I3,at_target,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J04,TF3,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,TF3,J12,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J12,R2,at_source,Thermal
+393700_1_En_9_Fig21_HTML - Copie.png,J12,C2,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,Se1,GY1,at_target,Thermal
+393700_1_En_9_Fig21_HTML.png,GY1,TF1,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,TF1,J01,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,J01,I1,at_target,Thermal
+393700_1_En_9_Fig21_HTML.png,J01,GY2,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,GY2,J02,at_target,Thermal
+393700_1_En_9_Fig21_HTML.png,J02,GY3,at_target,Thermal
+393700_1_En_9_Fig21_HTML.png,GY3,J03,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,J03,I2,at_target,Thermal
+393700_1_En_9_Fig21_HTML.png,J03,TF2,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,TF2,J11,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,J11,R1,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,J11,C1,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,J02,GY4,at_target,Thermal
+393700_1_En_9_Fig21_HTML.png,GY4,J04,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,J04,I3,at_target,Thermal
+393700_1_En_9_Fig21_HTML.png,J04,TF3,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,TF3,J12,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,J12,R2,at_source,Thermal
+393700_1_En_9_Fig21_HTML.png,J12,C2,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,J01,C1,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,J01,J11,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,J11,J02,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,J02,C2,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,J11,R1,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,R1,J12,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,R1,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,R1,J04,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,J03,C3,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,J04,C4,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,J04,J12,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie (2).png,J12,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,J01,C1,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,J01,J11,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,J11,J02,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,J02,C2,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,J11,R1,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,R1,J12,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,R1,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,R1,J04,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,J03,C3,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,J04,C4,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,J04,J12,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6) - Copie.png,J12,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,J01,C1,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,J01,J11,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,J11,J02,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,J02,C2,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,J11,R1,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,R1,J12,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,R1,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,R1,J04,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,J03,C3,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,J04,C4,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,J04,J12,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie (6).png,J12,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,J01,C1,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,J01,J11,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,J11,J02,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,J02,C2,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,J11,R1,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,R1,J12,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,R1,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,R1,J04,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,J03,C3,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,J04,C4,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,J04,J12,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie - Copie.png,J12,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,J01,C1,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,J01,J11,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,J11,J02,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,J02,C2,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,J11,R1,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,R1,J12,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,R1,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,R1,J04,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,J03,C3,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,J04,C4,at_source,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,J04,J12,at_target,Thermal
+520337_1_En_27_Fig1_HTML - Copie.png,J12,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML.png,J01,C1,at_source,Thermal
+520337_1_En_27_Fig1_HTML.png,J01,J11,at_target,Thermal
+520337_1_En_27_Fig1_HTML.png,J11,J02,at_source,Thermal
+520337_1_En_27_Fig1_HTML.png,J02,C2,at_source,Thermal
+520337_1_En_27_Fig1_HTML.png,J11,R1,at_target,Thermal
+520337_1_En_27_Fig1_HTML.png,R1,J12,at_source,Thermal
+520337_1_En_27_Fig1_HTML.png,R1,J03,at_source,Thermal
+520337_1_En_27_Fig1_HTML.png,R1,J04,at_source,Thermal
+520337_1_En_27_Fig1_HTML.png,J03,C3,at_source,Thermal
+520337_1_En_27_Fig1_HTML.png,J04,C4,at_source,Thermal
+520337_1_En_27_Fig1_HTML.png,J04,J12,at_target,Thermal
+520337_1_En_27_Fig1_HTML.png,J12,J03,at_source,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of - Copie.png,Se1,J11,at_target,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of - Copie.png,J11,R1,at_source,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of - Copie.png,J11,Df1,at_source,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of - Copie.png,J11,J01,at_source,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of - Copie.png,J01,C1,at_target,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of - Copie.png,J01,De1,at_target,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of - Copie.png,J01,J11,at_source,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of - Copie.png,J11,R2,at_source,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of - Copie.png,Se2,J12,at_target,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of.png,Se1,J11,at_target,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of.png,J11,R1,at_target,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of.png,J11,Df1,at_source,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of.png,J11,J01,at_source,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of.png,J01,C1,at_source,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of.png,J01,De1,at_target,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of.png,J01,J12,at_target,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of.png,J12,R2,at_target,Thermal
+Acausal-a-and-causal-b-bond-graph-of-the-thermal-system-where-the-thermal-capacity-of.png,Se2,J12,at_target,Thermal
+Advanced-linear-mech-bond-graph-3 - Copie.png,Se1,J11,at_source,Thermal
+Advanced-linear-mech-bond-graph-3 - Copie.png,J11,C1,at_source,Thermal
+Advanced-linear-mech-bond-graph-3 - Copie.png,J11,I1,at_source,Thermal
+Advanced-linear-mech-bond-graph-3 - Copie.png,J11,R1,at_source,Thermal
+Advanced-linear-mech-bond-graph-3 - Copie.png,J11,J01,at_target,Thermal
+Advanced-linear-mech-bond-graph-3 - Copie.png,J01,I2,at_target,Thermal
+Advanced-linear-mech-bond-graph-3 - Copie.png,J01,J12,at_target,Thermal
+Advanced-linear-mech-bond-graph-3 - Copie.png,J12,C2,at_source,Thermal
+Advanced-linear-mech-bond-graph-3 - Copie.png,J12,R2,at_source,Thermal
+Advanced-linear-mech-bond-graph-3.png,Se1,J11,at_source,Thermal
+Advanced-linear-mech-bond-graph-3.png,J11,C1,at_source,Thermal
+Advanced-linear-mech-bond-graph-3.png,J11,I1,at_source,Thermal
+Advanced-linear-mech-bond-graph-3.png,J11,R1,at_source,Thermal
+Advanced-linear-mech-bond-graph-3.png,J11,J01,at_target,Thermal
+Advanced-linear-mech-bond-graph-3.png,J01,I2,at_target,Thermal
+Advanced-linear-mech-bond-graph-3.png,J01,J12,at_target,Thermal
+Advanced-linear-mech-bond-graph-3.png,J12,C2,at_source,Thermal
+Advanced-linear-mech-bond-graph-3.png,J12,R2,at_source,Thermal
+Bond-graph-for-thermal-conduction-CD - Copie.png,J01,J11,at_target,Thermal
+Bond-graph-for-thermal-conduction-CD - Copie.png,J11,J02,at_source,Thermal
+Bond-graph-for-thermal-conduction-CD - Copie.png,J02,C1,at_source,Thermal
+Bond-graph-for-thermal-conduction-CD.png,J01,J11,at_target,Thermal
+Bond-graph-for-thermal-conduction-CD.png,J11,J02,at_source,Thermal
+Bond-graph-for-thermal-conduction-CD.png,J02,C1,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,Sf1,TF1,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,TF1,J01,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J01,GY1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,GY1,J11,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J11,R1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J11,I1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J11,GY2,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,GY2,J12,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J12,TF1,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J12,R2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J12,I2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J12,TF2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,TF2,J02,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J02,C1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J02,TF4,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,TF4,J13,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J13,I3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J13,R3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J13,J03,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J13,TF5,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J03,C2,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J03,J14,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J14,R4,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J14,I4,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J14,TF6,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J14,J04,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,J04,C3,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,TF5,TF7,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1) - Copie.png,TF7,J04,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,Sf1,TF1,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,TF1,J01,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J01,GY1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,GY1,J11,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J11,R1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J11,I1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J11,GY2,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,GY2,J12,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J12,TF2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J12,R2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J12,I2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J12,TF3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,TF3,J02,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J02,C1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J02,TF4,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,TF4,J13,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J13,I3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J13,R3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J13,J03,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J13,TF5,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J03,C2,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J03,J14,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J14,R4,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J14,I4,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J14,TF6,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J14,J04,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,TF5,TF7,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,TF7,J04,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 (1).png,J04,C3,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,Sf1,TF1,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,TF1,J01,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J01,GY1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,GY1,J11,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J11,R1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J11,I1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J11,GY2,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,GY2,J12,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J12,TF2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J12,R2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J12,I2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J12,TF3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,TF3,J02,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J02,C1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J02,TF4,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,TF4,J13,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J13,I3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J13,R3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J13,J03,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J13,TF5,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J03,C2,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J03,J14,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J14,R4,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J14,I4,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J14,TF6,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J14,J04,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,TF5,TF7,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,TF7,J04,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23 - Copie.png,J04,C3,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,Sf1,TF1,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,TF1,J01,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J01,GY1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,GY1,J11,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J11,R1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J11,I1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J11,GY2,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,GY2,J12,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J12,TF2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J12,R2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J12,I2,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J12,TF3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,TF3,J02,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J02,C1,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J02,TF4,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,TF4,J13,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J13,I3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J13,R3,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J13,J03,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J13,TF5,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J03,C2,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J03,J14,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J14,R4,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J14,I4,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J14,TF6,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J14,J04,at_source,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,TF5,TF7,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,TF7,J04,at_target,Thermal
+Bond-graph-model-for-printer-drive-of-Figure-23.png,J04,C3,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,Se1,R1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J01,R1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J01,C1,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,R2,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,R3,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J02,R2,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J02,J11,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,Sf2,J02,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,R4,J02,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J11,J03,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,Sf3,J03,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J03,R3,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J03,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,Sf4,J11,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,R4,J04,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J04,Sf4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J04,J12,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J12,Sf4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J12,J05,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J12,R6,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J05,Sf4,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J05,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J06,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,TF1,J06,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J07,R4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J07,TF2,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,TF2,J13,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J13,R7,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J13,TF1,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J13,J08,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J08,J14,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,J14,I1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,Se2,J14,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie (2).png,Sf5,J08,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,Se1,R1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J01,R1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J01,C1,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,R2,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,R3,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J02,R2,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J02,J11,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,Sf2,J02,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,R4,J02,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J11,J03,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,Sf3,J03,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J03,R3,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J03,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,Sf4,J11,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,R4,J04,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J04,Sf4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J04,J12,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J12,Sf4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J12,J05,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J12,R6,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J05,Sf4,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J05,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J06,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,TF1,J06,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J07,R4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J07,TF2,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,TF2,J13,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J13,R7,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J13,TF1,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J13,J08,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J08,J14,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,J14,I1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,Sf2,J14,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie - Copie.png,Sf5,J08,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,Se1,R1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J01,R1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J01,C1,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,R2,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,R3,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J02,R2,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J02,J11,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,Sf2,J02,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,R4,J02,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J11,J03,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,Sf3,J03,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J03,R3,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J03,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,Sf4,J11,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,R4,J04,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J04,Sf4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J04,J12,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J12,Sf4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J12,J05,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J12,R6,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J05,Sf4,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J05,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J06,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,TF1,J06,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J07,R4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J07,TF2,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J13,R7,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J13,TF1,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J13,J08,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J08,J14,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,J14,I1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,Se2,J14,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the - Copie.png,Sf5,J08,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,Se1,R1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J01,R1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J01,C1,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,R2,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,R3,J01,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J02,R2,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J02,J11,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,Sf2,J02,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,R4,J02,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J11,J03,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,Sf3,J03,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J03,R3,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J03,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,Sf4,J11,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,R4,J04,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J04,Sf4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J04,J12,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J12,Sf4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J12,J05,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J12,R6,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J05,Sf4,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J05,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J06,R5,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,TF1,J06,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J07,R4,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J07,TF2,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,TF2,J13,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J13,R7,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J13,TF1,at_source,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J13,J08,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J08,J14,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,J14,I1,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,Se2,J14,at_target,Thermal
+Bond-graph-model-of-liquid-shock-absorber-with-thermal-phenomena-The-bottom-part-of-the.png,Sf5,J08,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2) - Copie.png,TF1,J11,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2) - Copie.png,J11,I1,at_target,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2) - Copie.png,J11,TF2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2) - Copie.png,TF2,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2) - Copie.png,J12,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2) - Copie.png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2) - Copie.png,J12,I2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2).png,TF1,J11,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2).png,J11,I1,at_target,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2).png,J11,TF2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2).png,TF2,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2).png,J12,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2).png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (2).png,J12,I2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (3).png,TF1,J11,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (3).png,J11,I1,at_target,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (3).png,J11,TF2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (3).png,TF2,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (3).png,J12,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (3).png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie (3).png,J12,I2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie - Copie.png,TF1,J11,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie - Copie.png,J11,I1,at_target,Thermal
+Bond-graph-model-of-single-wheel-system - Copie - Copie.png,J11,TF2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie - Copie.png,TF2,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie - Copie.png,J12,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie - Copie.png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie - Copie.png,J12,I2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie.png,TF1,J11,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie.png,J11,I1,at_target,Thermal
+Bond-graph-model-of-single-wheel-system - Copie.png,J11,TF2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie.png,TF2,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie.png,J12,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie.png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system - Copie.png,J12,I2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system.png,TF1,J11,at_source,Thermal
+Bond-graph-model-of-single-wheel-system.png,J11,I1,at_target,Thermal
+Bond-graph-model-of-single-wheel-system.png,J11,TF2,at_source,Thermal
+Bond-graph-model-of-single-wheel-system.png,TF2,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system.png,J12,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system.png,Sf1,J01,at_source,Thermal
+Bond-graph-model-of-single-wheel-system.png,J12,I2,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,Se1,J11,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J11,R1,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J11,J12,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J12,Df1,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J12,R2,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J12,J01,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J01,C1,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J01,De1,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J01,J13,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J13,R3,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J13,J02,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J02,C2,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J02,J14,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J14,R4,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J14,J03,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J03,C3,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J03,De2,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J03,J15,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J15,R5,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J15,Df2,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system - Copie.png,J15,Se2,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,Se1,J11,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J11,R1,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J11,J12,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J12,Df1,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J12,R2,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J12,J01,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J01,C1,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J01,De1,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J01,J13,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J13,R3,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J13,J02,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J02,C2,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J02,J14,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J14,R4,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J14,J03,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J03,C3,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J03,De2,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J03,J15,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J15,R5,at_target,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J15,Df2,at_source,Thermal
+Bond-graph-model-of-the-three-tank-system.png,J15,Se2,at_source,Thermal
+Capture d’écran 2025-08-12 221432 - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 221432 - Copie.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 221432 - Copie.png,J11,Df1,at_source,Thermal
+Capture d’écran 2025-08-12 221432 - Copie.png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 221432 - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 221432 - Copie.png,J01,De1,at_target,Thermal
+Capture d’écran 2025-08-12 221432 - Copie.png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 221432 - Copie.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 221432 - Copie.png,Se2,J12,at_target,Thermal
+Capture d’écran 2025-08-12 221432.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 221432.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 221432.png,J11,Df1,at_source,Thermal
+Capture d’écran 2025-08-12 221432.png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 221432.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 221432.png,J01,De1,at_target,Thermal
+Capture d’écran 2025-08-12 221432.png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 221432.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 221432.png,Se2,J12,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J11,Df1,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J02,De1,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J02,J13,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,J13,R3,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie (2).png,Se2,J13,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J11,Df1,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J02,De1,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J02,J13,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,J02,R3,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie - Copie.png,Se2,J13,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J11,Df1,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J02,De1,at_source,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,De1,J13,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,J13,R3,at_target,Thermal
+Capture d’écran 2025-08-12 221511 - Copie.png,Se2,J13,at_target,Thermal
+Capture d’écran 2025-08-12 221511.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 221511.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 221511.png,J11,Df1,at_source,Thermal
+Capture d’écran 2025-08-12 221511.png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 221511.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 221511.png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 221511.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 221511.png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-12 221511.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-12 221511.png,J02,De1,at_source,Thermal
+Capture d’écran 2025-08-12 221511.png,J02,J13,at_target,Thermal
+Capture d’écran 2025-08-12 221511.png,J13,R3,at_target,Thermal
+Capture d’écran 2025-08-12 221511.png,Se2,J13,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J02,J13,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J13,R3,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J13,J03,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J03,C3,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J03,J14,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J14,R4,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J14,J04,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J04,C4,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J04,J15,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J15,R5,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J15,J05,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J05,C5,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J05,J16,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,J16,R6,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2) - Copie.png,Se2,J16,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J02,J13,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J13,R3,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J13,J03,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J03,C3,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J03,J14,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J14,R4,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J14,J04,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J04,C4,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J04,J15,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J15,R5,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J15,J05,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J05,C5,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J05,J16,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,J16,R6,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (2).png,Se2,J16,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J02,J13,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J13,R3,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J13,J03,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J03,C3,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J03,J14,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J14,R4,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J14,J04,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J04,C4,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J04,J15,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J15,R5,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J15,J05,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J05,C5,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J05,J16,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,J16,R6,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3) - Copie.png,Se2,J16,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J02,J13,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J13,R3,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J13,J03,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J03,C3,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J03,J14,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J14,R4,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J14,J04,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J04,C4,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J04,J15,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J15,R5,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J15,J05,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J05,C5,at_source,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J05,J16,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,J16,R6,at_target,Thermal
+Capture d’écran 2025-08-12 223844 - Copie (3).png,Se2,J16,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J01,C1,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J11,R2,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J11,I1,at_source,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J11,J02,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J02,I2,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J02,R3,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J02,J12,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J12,C2,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J12,C3,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie (2).png,J12,I3,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J01,C1,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J11,R2,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J11,I1,at_source,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J11,J02,at_source,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J02,I2,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J02,R3,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J02,J12,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J12,C2,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie - Copie.png,J12,I3,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,I3,J01,at_source,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J01,C1,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J11,R2,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J11,I1,at_source,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J11,J02,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J02,I2,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J02,R3,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J02,J12,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J12,C2,at_target,Thermal
+Capture d’écran 2025-08-12 231915 - Copie.png,J12,I3,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-12 231915.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,J01,C1,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,J11,R2,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,J11,I1,at_source,Thermal
+Capture d’écran 2025-08-12 231915.png,J11,J02,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,J02,I2,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,J02,R3,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,J02,J12,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,J12,C2,at_target,Thermal
+Capture d’écran 2025-08-12 231915.png,J12,I3,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (2) - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (2) - Copie.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (2) - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (2) - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (2) - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (2).png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (2).png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (2).png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (2).png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (3) - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (3) - Copie.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (3) - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (3) - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (3) - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (3).png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (3).png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (3).png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (3).png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4) - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4) - Copie.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4) - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4) - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4) - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4).png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4).png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4).png,J01,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4).png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (4).png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5) - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5) - Copie.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5) - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5) - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5) - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5).png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5).png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5).png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5).png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (5).png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6) - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6) - Copie.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6) - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6) - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6) - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6).png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6).png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6).png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6).png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (6).png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (7).png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (7).png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (7).png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (7).png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie (7).png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie - Copie.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041 - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041 - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-12 232041.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-12 232041.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-12 232041.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-12 232041.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J11,Df1,at_source,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J02,De1,at_target,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J02,J13,at_target,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,J13,R3,at_target,Thermal
+Capture d’écran 2025-08-15 201927 - Copie.png,Se2,J13,at_target,Thermal
+Capture d’écran 2025-08-15 201927.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-15 201927.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-15 201927.png,J11,Df1,at_source,Thermal
+Capture d’écran 2025-08-15 201927.png,J11,J01,at_source,Thermal
+Capture d’écran 2025-08-15 201927.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-15 201927.png,J01,J12,at_target,Thermal
+Capture d’écran 2025-08-15 201927.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-15 201927.png,J12,J02,at_source,Thermal
+Capture d’écran 2025-08-15 201927.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-15 201927.png,J02,De1,at_target,Thermal
+Capture d’écran 2025-08-15 201927.png,J02,J13,at_target,Thermal
+Capture d’écran 2025-08-15 201927.png,J13,R3,at_target,Thermal
+Capture d’écran 2025-08-15 201927.png,Se2,J13,at_target,Thermal
+Capture d’écran 2025-08-15 202127 - Copie.png,J01,TF1,at_target,Thermal
+Capture d’écran 2025-08-15 202127 - Copie.png,TF1,J11,at_target,Thermal
+Capture d’écran 2025-08-15 202127.png,J01,TF1,at_target,Thermal
+Capture d’écran 2025-08-15 202127.png,TF1,J11,at_target,Thermal
+Capture d’écran 2025-08-15 202804 - Copie.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-15 202804 - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-15 202804 - Copie.png,J01,R1,at_source,Thermal
+Capture d’écran 2025-08-15 202804 - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-15 202804 - Copie.png,J11,R2,at_target,Thermal
+Capture d’écran 2025-08-15 202804 - Copie.png,J11,J02,at_source,Thermal
+Capture d’écran 2025-08-15 202804 - Copie.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-15 202804 - Copie.png,J02,R3,at_target,Thermal
+Capture d’écran 2025-08-15 202804.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-15 202804.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-15 202804.png,J01,R1,at_source,Thermal
+Capture d’écran 2025-08-15 202804.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-15 202804.png,J11,R2,at_source,Thermal
+Capture d’écran 2025-08-15 202804.png,J11,J02,at_source,Thermal
+Capture d’écran 2025-08-15 202804.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-15 202804.png,J02,R3,at_target,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J01,C1,at_target,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J01,De1,at_source,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J11,J02,at_source,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J02,C2,at_target,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J02,De2,at_source,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J02,J12,at_target,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-15 202837 - Copie.png,J12,Se1,at_source,Thermal
+Capture d’écran 2025-08-15 202837.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-15 202837.png,J01,C1,at_target,Thermal
+Capture d’écran 2025-08-15 202837.png,J01,De1,at_source,Thermal
+Capture d’écran 2025-08-15 202837.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-15 202837.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-15 202837.png,J11,J02,at_source,Thermal
+Capture d’écran 2025-08-15 202837.png,J02,C2,at_target,Thermal
+Capture d’écran 2025-08-15 202837.png,J02,De2,at_source,Thermal
+Capture d’écran 2025-08-15 202837.png,J02,J12,at_target,Thermal
+Capture d’écran 2025-08-15 202837.png,J12,R2,at_target,Thermal
+Capture d’écran 2025-08-15 202837.png,J12,Se1,at_source,Thermal
+Capture d’écran 2025-08-15 203257 - Copie.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-15 203257 - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-15 203257 - Copie.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-15 203257 - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-15 203257 - Copie.png,J11,R2,at_target,Thermal
+Capture d’écran 2025-08-15 203257 - Copie.png,J11,J02,at_target,Thermal
+Capture d’écran 2025-08-15 203257 - Copie.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-15 203257 - Copie.png,J02,R3,at_target,Thermal
+Capture d’écran 2025-08-15 203257.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-15 203257.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-15 203257.png,J01,R1,at_target,Thermal
+Capture d’écran 2025-08-15 203257.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-15 203257.png,J11,R2,at_target,Thermal
+Capture d’écran 2025-08-15 203257.png,J11,J02,at_target,Thermal
+Capture d’écran 2025-08-15 203257.png,J02,C2,at_source,Thermal
+Capture d’écran 2025-08-15 203257.png,J02,R3,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J01,I1,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J11,C2,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J11,J02,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J02,R2,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J02,I2,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J02,J12,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J12,R3,at_target,Thermal
+Capture d’écran 2025-08-15 203525 - Copie.png,J12,I3,at_source,Thermal
+Capture d’écran 2025-08-15 203525.png,Sf1,J01,at_source,Thermal
+Capture d’écran 2025-08-15 203525.png,J01,C1,at_source,Thermal
+Capture d’écran 2025-08-15 203525.png,J01,I1,at_target,Thermal
+Capture d’écran 2025-08-15 203525.png,J01,J11,at_target,Thermal
+Capture d’écran 2025-08-15 203525.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-15 203525.png,J11,C2,at_target,Thermal
+Capture d’écran 2025-08-15 203525.png,J11,J02,at_target,Thermal
+Capture d’écran 2025-08-15 203525.png,J02,R2,at_target,Thermal
+Capture d’écran 2025-08-15 203525.png,J02,I2,at_target,Thermal
+Capture d’écran 2025-08-15 203525.png,J02,J12,at_target,Thermal
+Capture d’écran 2025-08-15 203525.png,J12,R3,at_target,Thermal
+Capture d’écran 2025-08-15 203525.png,J12,I3,at_source,Thermal
+Capture d’écran 2025-08-15 203553 - Copie.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-15 203553 - Copie.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-15 203553 - Copie.png,J11,C1,at_source,Thermal
+Capture d’écran 2025-08-15 203553 - Copie.png,J11,R1,at_source,Thermal
+Capture d’écran 2025-08-15 203553 - Copie.png,J11,Sf1,at_source,Thermal
+Capture d’écran 2025-08-15 203553.png,Se1,J11,at_target,Thermal
+Capture d’écran 2025-08-15 203553.png,J11,I1,at_target,Thermal
+Capture d’écran 2025-08-15 203553.png,J11,C1,at_source,Thermal
+Capture d’écran 2025-08-15 203553.png,J11,R1,at_source,Thermal
+Capture d’écran 2025-08-15 203553.png,J11,Sf1,at_source,Thermal
+Capture d’écran 2025-08-15 203646 - Copie.png,I1,J11,at_target,Thermal
+Capture d’écran 2025-08-15 203646 - Copie.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-15 203646 - Copie.png,J11,C1,at_source,Thermal
+Capture d’écran 2025-08-15 203646.png,I1,J11,at_target,Thermal
+Capture d’écran 2025-08-15 203646.png,J11,R1,at_target,Thermal
+Capture d’écran 2025-08-15 203646.png,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1) - Copie.jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1) - Copie.jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1) - Copie.jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1) - Copie.jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1) - Copie.jpg,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1).jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1).jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1).jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1).jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (1).jpg,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie - Copie.jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie - Copie.jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie - Copie.jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie - Copie.jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie - Copie.jpg,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie.jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie.jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie.jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie.jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (5) - Copie.jpg,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie - Copie.jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie - Copie.jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie - Copie.jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie - Copie.jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie - Copie.jpg,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie.jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie.jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie.jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie.jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 (6) - Copie.jpg,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2) - Copie.jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2) - Copie.jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2) - Copie.jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2) - Copie.jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2) - Copie.jpg,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2).jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2).jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2).jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2).jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie (2).jpg,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie.jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie.jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie.jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie.jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320 - Copie.jpg,J11,C1,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320.jpg,Sf1,J01,at_source,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320.jpg,Se1,J01,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320.jpg,J01,J11,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320.jpg,J11,R1,at_target,Thermal
+D-mechanical-bond-graph-of-an-elementary-volume_Q320.jpg,J11,C1,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,Se1,J11,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J11,R1,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J11,I1,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J11,GY1,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,GY1,J12,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J12,R2,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J12,I2,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J12,J01,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J01,C1,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J01,TF1,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,TF1,J13,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J13,R3,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J13,I3,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J13,TF2,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,TF2,J02,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J02,C2,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J02,J14,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J14,R4,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,J14,I4,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem - Copie.png,Se2,J14,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,Se1,J11,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J11,R1,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J11,I1,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J11,GY1,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,GY1,J12,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J12,R2,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J12,I2,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J12,J01,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J01,C1,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J01,TF1,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,TF1,J13,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J13,R3,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J13,I3,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J13,TF2,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,TF2,J02,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J02,C2,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J02,J14,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J14,R4,at_source,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,J14,I4,at_target,Thermal
+The-bond-graph-of-the-front-wheel-subsystem.png,Se2,J14,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (2) - Copie.png,J01,J11,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (2) - Copie.png,J11,R1,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (2) - Copie.png,J11,J02,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (2).png,J01,J11,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (2).png,J11,R1,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (2).png,J11,J02,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (3) - Copie.png,J01,J11,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (3) - Copie.png,J11,R1,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (3) - Copie.png,J11,J02,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (3).png,J01,J11,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (3).png,J11,R1,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (3).png,J11,J02,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (4) - Copie.png,J01,J11,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (4) - Copie.png,J11,R1,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (4) - Copie.png,J11,J02,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (4).png,J01,J11,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (4).png,J11,R1,at_target,Thermal
+a-Thermal-conduction-b-Pseudo-bond-graph-model-c-d-True-bond-graph-models - Copie (4).png,J11,J02,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,Se1,R1,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,R1,J01,at_source,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,J01,C1,at_source,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,J01,R2,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,J01,J11,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,Se2,R2,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,Sf1,J12,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,J12,R1,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,J12,J13,at_source,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,J13,R2,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie - Copie.jpg,J11,R3,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,Se1,R1,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,R1,J01,at_source,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,J01,C1,at_source,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,J01,R2,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,J01,J11,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,Se2,R2,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,Sf1,J12,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,J12,R1,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,J12,J13,at_source,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,J13,R2,at_target,Thermal
+energies-18-04168-g003-550 (1) - Copie.jpg,J11,R3,at_target,Thermal
+energies-18-04168-g003-550 (1).jpg,Se1,R1,at_target,Thermal
+energies-18-04168-g003-550 (1).jpg,R1,J01,at_source,Thermal
+energies-18-04168-g003-550 (1).jpg,J01,C1,at_source,Thermal
+energies-18-04168-g003-550 (1).jpg,J01,R2,at_target,Thermal
+energies-18-04168-g003-550 (1).jpg,J01,J11,at_target,Thermal
+energies-18-04168-g003-550 (1).jpg,Se2,R2,at_target,Thermal
+energies-18-04168-g003-550 (1).jpg,Sf1,J12,at_target,Thermal
+energies-18-04168-g003-550 (1).jpg,J12,R1,at_target,Thermal
+energies-18-04168-g003-550 (1).jpg,J12,J13,at_source,Thermal
+energies-18-04168-g003-550 (1).jpg,J13,R2,at_target,Thermal
+energies-18-04168-g003-550 (1).jpg,J11,R3,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,Se1,R1,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,R1,J01,at_source,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,J01,C1,at_source,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,J01,R2,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,J01,J11,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,Se2,R2,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,Sf1,J12,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,J12,R1,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,J12,J13,at_source,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,J13,R2,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie - Copie.jpg,J11,R3,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,Se1,R1,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,R1,J01,at_source,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,J01,C1,at_source,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,J01,R2,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,J01,J11,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,Se2,R2,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,Sf1,J12,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,J12,R1,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,J12,J13,at_source,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,J13,R2,at_target,Thermal
+energies-18-04168-g003-550 (2) - Copie.jpg,J11,R3,at_target,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,Se1,R1,at_target,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,R1,J01,at_source,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,J01,C1,at_source,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,J01,R2,at_target,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,J01,J11,at_target,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,Se2,R2,at_target,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,Sf1,J12,at_target,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,J12,R1,at_target,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,J12,J13,at_target,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,J13,R2,at_target,Thermal
+energies-18-04168-g003-550 (3) - Copie.jpg,J11,R3,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,Se1,R1,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,R1,J01,at_source,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,J01,C1,at_source,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,J01,R2,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,J01,J11,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,Se2,R2,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,Sf1,J12,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,J12,R1,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,J12,J13,at_source,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,J13,R2,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2) - Copie.jpg,J11,R3,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,Se1,R1,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,R1,J01,at_source,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,J01,C1,at_source,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,J01,R2,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,J01,J11,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,Se2,R2,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,Sf1,J12,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,J12,R1,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,J12,J13,at_source,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,J13,R2,at_target,Thermal
+energies-18-04168-g003-550 - Copie (2).jpg,J11,R3,at_target,Thermal
+images (1) - Copie.png,Se1,J11,at_target,Thermal
+images (1) - Copie.png,J11,R1,at_source,Thermal
+images (1) - Copie.png,J11,GY1,at_source,Thermal
+images (1) - Copie.png,J11,I1,at_target,Thermal
+images (1) - Copie.png,GY1,J12,at_target,Thermal
+images (1) - Copie.png,J12,R2,at_source,Thermal
+images (1) - Copie.png,J12,Se2,at_source,Thermal
+images (1) - Copie.png,J12,I2,at_target,Thermal
+images (1).png,Se1,J11,at_target,Thermal
+images (1).png,J11,R1,at_source,Thermal
+images (1).png,J11,I1,at_target,Thermal
+images (1).png,J11,GY1,at_source,Thermal
+images (1).png,GY1,J12,at_target,Thermal
+images (1).png,J12,R2,at_source,Thermal
+images (1).png,J12,Se2,at_source,Thermal
+images (1).png,J12,I2,at_target,Thermal
+images - Copie (2) - Copie.png,Se1,J01,at_target,Thermal
+images - Copie (2) - Copie.png,R1,J01,at_source,Thermal
+images - Copie (2) - Copie.png,J02,R1,at_target,Thermal
+images - Copie (2) - Copie.png,J02,C1,at_source,Thermal
+images - Copie (2) - Copie.png,J01,R2,at_target,Thermal
+images - Copie (2) - Copie.png,R2,J02,at_target,Thermal
+images - Copie (2).png,Se1,J01,at_target,Thermal
+images - Copie (2).png,R1,J01,at_source,Thermal
+images - Copie (2).png,J02,R1,at_target,Thermal
+images - Copie (2).png,J02,C1,at_source,Thermal
+images - Copie (2).png,J01,R2,at_target,Thermal
+images - Copie (2).png,R2,J02,at_target,Thermal
+images - Copie.png,Se1,J01,at_target,Thermal
+images - Copie.png,R1,J01,at_source,Thermal
+images - Copie.png,J02,R1,at_target,Thermal
+images - Copie.png,J02,C1,at_source,Thermal
+images - Copie.png,J01,R2,at_target,Thermal
+images - Copie.png,R2,J02,at_target,Thermal
+images.png,Se1,J01,at_target,Thermal
+images.png,R1,J01,at_source,Thermal
+images.png,J02,R1,at_target,Thermal
+images.png,J02,C1,at_source,Thermal
+images.png,J01,R2,at_target,Thermal
+images.png,R2,J02,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,Se1,TF1,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,TF1,J01,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J01,De1,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J01,J11,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J11,R1,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J11,I1,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J11,TF2,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,TF2,J12,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J12,Df1,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J11,GY1,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,GY1,J13,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J13,R2,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J13,I2,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J13,Df2,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,Se2,J13,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J14,I1,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J14,Df3,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J14,R3,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,I1,GY1,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J15,I1,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J15,R4,at_source,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,J15,Df4,at_target,Thermal
+symmetry-15-02170-g016-550 - Copie.jpg,Se3,J15,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,Se1,TF1,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,TF1,J01,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,J01,De1,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,J01,J11,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,J11,R1,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,J11,I1,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,J11,TF2,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,TF2,J12,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,J12,Df1,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,J11,GY1,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,GY1,J13,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,J13,R2,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,J13,I2,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,J13,Df2,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,Se2,J13,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,J14,I1,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,J14,Df3,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,J14,R3,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,I1,GY1,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,J15,I1,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,J15,R4,at_source,Thermal
+symmetry-15-02170-g016-550.jpg,J15,Df4,at_target,Thermal
+symmetry-15-02170-g016-550.jpg,Se3,J15,at_target,Thermal
