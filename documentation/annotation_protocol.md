@@ -41,6 +41,10 @@ The component annotation files follow the naming convention:
 
 `components_labels_<Domain>.csv`
 
+They are stored in:
+
+`data/annotations/components/`
+
 Each row corresponds to an annotated Bond Graph image.
 
 The annotation table contains the following information:
@@ -65,14 +69,19 @@ The edge annotation files follow the naming convention:
 
 `edges_annotations_<Domain>.csv`
 
-They contain information describing the connections between Bond Graph components.
+They are stored in:
 
-The annotation fields include:
+`data/annotations/edges/`
 
-- `source`: source component or node.
-- `target`: target component or node.
-- `causality`: causality-related annotation.
-- `domain`: associated physical domain.
+Each row represents an annotated connection between two Bond Graph components.
+
+The edge annotation files contain the following fields:
+
+- `graph_id`: identifier of the annotated graph or image.
+- `source`: source component or node of the connection.
+- `target`: target component or node of the connection.
+- `causality`: causality-related annotation associated with the connection.
+- `domain`: physical domain associated with the graph.
 
 ### 3.2 Power Direction and Causality
 
@@ -81,29 +90,42 @@ The annotation workflow distinguishes between two graphical concepts:
 - **Power direction:** represented by the half-arrow on a Bond Graph bond.
 - **Causality:** represented by the causal stroke.
 
-These two concepts are annotated separately because they represent different aspects of Bond Graph structure.
+These two concepts are distinct and describe different aspects of Bond Graph structure.
 
-The detailed encoding of causality labels is defined by the edge annotation files.
+The edge annotation files use the following causality labels:
+
+- `at_source`
+- `at_target`
+
+These labels encode the endpoint associated with the causality annotation.
+
+Power direction and causality should not be interpreted as equivalent information.
 
 ## 4. Domain Organization
 
-The annotation files are organized according to the five physical domains:
+The annotation files are organized according to the five physical domains.
 
-| Domain | Component annotations | Edge annotations |
+| Domain | Component Annotations | Edge Annotations |
 |---|---|---|
-| Electrical | `components_labels_Electrical.csv` | `edges_annotations_Electrical.csv` |
-| Mechanical | `components_labels_Mechanical.csv` | `edges_annotations_Mechanical.csv` |
-| Electromechanical | `components_labels_Electromechanical.csv` | `edges_annotations_Electromechanical.csv` |
-| Thermal | `components_labels_Thermal.csv` | `edges_annotations_Thermal.csv` |
-| Hydraulic | `components_labels_Hydraulic.csv` | `edges_annotations_Hydraulic.csv` |
+| Electrical | `components/components_labels_Electrical.csv` | `edges/edges_annotations_Electrical.csv` |
+| Mechanical | `components/components_labels_Mechanical.csv` | `edges/edges_annotations_Mechanical.csv` |
+| Electromechanical | `components/components_labels_Electromechanical.csv` | `edges/edges_annotations_Electromechanical.csv` |
+| Thermal | `components/components_labels_Thermal.csv` | `edges/edges_annotations_Thermal.csv` |
+| Hydraulic | `components/components_labels_Hydraulic.csv` | `edges/edges_annotations_Hydraulic.csv` |
+
+All annotation files are stored under:
+
+`data/annotations/`
 
 ## 5. Duplicate Image Handling
 
 Duplicate images are identified during dataset preparation using image similarity and hashing procedures.
 
-When duplicate images are identified, their existing annotations are reused rather than independently creating inconsistent labels.
+When duplicate images are identified, existing annotations can be reused to maintain consistency across the dataset.
 
-The annotation CSV files retain the image-level records used by the annotation workflow.
+The annotation CSV files preserve the image-level records associated with the annotation process.
+
+This procedure helps maintain annotation consistency while supporting dataset organization and preparation.
 
 ## 6. Annotation Organization
 
@@ -111,12 +133,14 @@ The annotation files are stored separately from the main PyTorch Geometric datas
 
 This separation allows researchers to inspect component-level and connection-level annotations independently.
 
+The component annotations describe the occurrence of Bond Graph components, while the edge annotations provide information about graph connectivity and causality.
+
 ## 7. Notes
 
 The component annotation files describe component occurrences in each image.
 
-The edge annotation files describe graph connections and associated causality information.
+The edge annotation files describe graph connections and their associated causality information.
 
-Researchers should consult the corresponding CSV files when additional annotation details are required.
+The annotation files are provided separately for each physical domain to facilitate data inspection, processing, and reuse.
 
-The exact label encoding and annotation conventions should be interpreted according to the supplied annotation files.
+Researchers should refer to the corresponding CSV files and the annotation conventions described in this document when using the dataset.
