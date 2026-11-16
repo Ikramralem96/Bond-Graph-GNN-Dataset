@@ -16,7 +16,9 @@ The objective is to provide structured graph data that can support the developme
 
 ## 2. Dataset Statistics
 
-The current dataset contains **3,621 graph samples**.
+The dataset contains **3,621 Bond Graph samples** distributed across five physical domains: Electrical, Mechanical, Electromechanical, Thermal, and Hydraulic.
+
+The dataset was constructed from an original collection of Bond Graphs and expanded using a **3× data augmentation strategy**, while preserving the graph structure and domain labels.
 
 The five physical domains are encoded using the following labels:
 
