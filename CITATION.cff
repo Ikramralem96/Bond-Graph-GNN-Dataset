@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this Bond Graph dataset in your research, please cite it using the information below."
+title: "Bond-Graph-GNN-Dataset"
+type: dataset
+
+author:
+  - family-names: Ralem
+    given-names: Ikram
+    affiliation: Computer Science Department, University of Oran 1
+ 
+date-released: 2026-11-19
+version: "1.0.0"
+url: "https://github.com/Ikramralem96/Bond-Graph-GNN-Dataset"
+abstract: >
+  A graph-structured dataset of Bond Graph models covering five physical
+  domains: Electrical, Mechanical, Electromechanical, Thermal, and Hydraulic.
+  The dataset is intended to support research on Graph Neural Networks,
+  component recognition, structural learning, causality analysis, and
+  physical-system classification.
