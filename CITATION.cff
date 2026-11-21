@@ -10,7 +10,9 @@ authors:
 
 date-released: 2026-11-19
 version: "1.0.0"
+doi: "10.5281/zenodo.24379981"
 url: "https://github.com/Ikramralem96/Bond-Graph-GNN-Dataset"
+license: "CC-BY-4.0"
 
 abstract: >
   A graph-structured dataset of Bond Graph models covering five physical
