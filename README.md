@@ -2,9 +2,9 @@
 
 ## 1. Overview
 
-This repository provides a graph-structured dataset of Bond Graph models for research on Graph Neural Networks (GNNs), structural learning, component recognition, causality analysis, and physical-system classification.
+This repository provides a graph-structured dataset of Bond Graph models designed for research on Graph Neural Networks (GNNs), structural learning, component recognition, causality analysis, and physical-system classification.
 
-The dataset covers five physical domains:
+The dataset contains **3,621 graph samples** covering five physical domains:
 
 - Electrical
 - Mechanical
@@ -12,11 +12,13 @@ The dataset covers five physical domains:
 - Thermal
 - Hydraulic
 
-The objective is to provide structured graph data that can support the development and evaluation of machine learning approaches for Bond Graph analysis.
+Each Bond Graph model is represented as a structured graph containing node features, directed connectivity information, edge attributes, and a physical-domain label.
 
-## 2. Dataset Statistics
+The objective is to provide structured data that supports the development and evaluation of machine learning approaches for Bond Graph analysis.
 
-The dataset contains **3,621 Bond Graph samples** distributed across five physical domains.
+## 2. Dataset Composition
+
+The dataset contains 3,621 graph samples distributed across five physical domains.
 
 | Label | Physical Domain | Number of Graphs |
 |---|---|---:|
@@ -25,38 +27,79 @@ The dataset contains **3,621 Bond Graph samples** distributed across five physic
 | 2 | Electromechanical | 600 |
 | 3 | Thermal | 360 |
 | 4 | Hydraulic | 894 |
-| | **Total** | **3,621** |
-
-The dataset was constructed from an original collection of Bond Graphs and expanded using a **3× data augmentation strategy**.
-
-The five physical domains are encoded using the numerical labels shown in the table above.
-
-The dataset is provided in PyTorch Geometric-compatible graph format.
+| **Total** | | **3,621** |
 
 ## 3. Graph Representation
 
-Each Bond Graph is represented as a graph with the following attributes:
+Each Bond Graph model is represented as a graph:
 
-| Attribute | Description |
-|---|---|
-| `x` | Node feature matrix containing 13 features per node |
-| `edge_index` | Directed connectivity information between graph nodes |
-| `edge_attr` | Edge attributes containing one feature per edge |
-| `y` | Graph-level physical-domain class label |
+\[
+G = (X, E, A, y)
+\]
 
-The graph representation preserves the node and edge information required for graph-based learning tasks.
+where:
 
-Additional information about the graph structure and data format is available in [`documentation/graph_format.md`](documentation/graph_format.md).
+- `x`: Node feature matrix representing Bond Graph components using 13-dimensional feature vectors.
+- `edge_index`: Directed connectivity information between nodes.
+- `edge_attr`: Edge attributes representing causality information.
+- `y`: Graph-level label identifying the physical domain.
+
+The dataset is compatible with PyTorch Geometric.
 
 ## 4. Dataset File
 
 The main dataset file is:
 
-`data/all_graphs_Multi_domain.pt`
+`all_graphs_Multi_domain.pt`
 
-It contains the 3,621 graph samples used for multi-domain Bond Graph research.
+It contains the graph samples stored as PyTorch Geometric Data objects.
 
-## 5. Repository Structure
+## 5. Loading the Dataset
+
+The dataset can be loaded using PyTorch and PyTorch Geometric:
+
+```python
+import torch
+from torch_geometric.data import Data
+
+dataset = torch.load(
+    "all_graphs_Multi_domain.pt",
+    map_location="cpu",
+    weights_only=False
+)
+
+print("Number of graphs:", len(dataset))
+
+# Inspect the first graph
+graph = dataset[0]
+
+print("Node features:", graph.x.shape)
+print("Edge index:", graph.edge_index.shape)
+print("Edge attributes:", graph.edge_attr.shape)
+print("Domain label:", graph.y)
+```
+
+**Requirements:**
+
+- Python
+- PyTorch
+- PyTorch Geometric
+
+## 6. Annotation Files
+
+The dataset is accompanied by separate annotation files covering two aspects of Bond Graph modeling:
+
+**Component annotations**
+
+These files contain component-level annotations for the five physical domains.
+
+**Edge annotations**
+
+These files document graph connections and associated causality information.
+
+The annotation files are provided separately from the main PyTorch dataset to facilitate inspection, analysis, and reuse.
+
+## 7. Repository Structure
 
 The repository is organized as follows:
 
@@ -64,6 +107,7 @@ The repository is organized as follows:
 Bond-Graph-GNN-Dataset/
 │
 ├── README.md
+├── CITATION.cff
 │
 ├── data/
 │   ├── all_graphs_Multi_domain.pt
@@ -89,62 +133,39 @@ Bond-Graph-GNN-Dataset/
     └── dataset_statistics.md
 ```
 
-## 6. Loading the Dataset
+## 8. Intended Applications
 
-The dataset is provided in PyTorch format and is intended for use with PyTorch Geometric.
+This dataset is intended to support research on:
 
-Example:
+- Bond Graph component recognition.
+- Graph Neural Networks for physical-system modeling.
+- Structural learning and graph classification.
+- Causality analysis in Bond Graph systems.
+- Multi-domain physical-system classification.
+- Development of data-driven tools for Bond Graph analysis.
 
-```python
-import torch
+## 9. Source Material and Data Construction
 
-graphs = torch.load(
-    "data/all_graphs_Multi_domain.pt",
-    map_location="cpu",
-    weights_only=False
-)
+The graph samples were constructed from Bond Graph diagrams collected from scientific and technical sources.
 
-print("Number of graphs:", len(graphs))
-print("First graph:", graphs[0])
-```
+The original source images and publication PDFs are **not included** in this dataset.
 
-Each graph contains node features, edge connectivity, edge attributes, and a graph-level domain label.
+The distributed dataset consists of structured graph representations, including node features, graph connectivity, edge attributes, and physical-domain labels.
 
-## 7. Annotations
+Component and edge annotations are provided separately to document the annotation structure.
 
-The repository provides separate CSV annotation files for:
+## 10. Citation
 
-- **Component annotations:** Bond Graph component labels.
-- **Edge annotations:** Graph connection information and associated causality annotations.
+If you use this dataset in your research, please cite it as follows:
 
-The annotation files are organized by physical domain.
+Ralem, I. (2026). *Bond-Graph-GNN-Dataset* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24379981
 
-The annotation format and labeling methodology are described in:
+## 11. License
 
-- [`documentation/annotation_protocol.md`](documentation/annotation_protocol.md)
-- [`documentation/graph_format.md`](documentation/graph_format.md)
+This dataset is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
-## 8. Intended Use
+You are free to share and adapt the dataset, provided appropriate credit is given to the creator, a link to the license is provided, and any changes are indicated.
 
-This dataset is intended for research and experimentation in:
+Original source images and publication PDFs are not redistributed as part of this dataset.
 
-- Graph Neural Networks.
-- Bond Graph modeling and analysis.
-- Physical-system domain classification.
-- Graph-based component recognition.
-- Structural and causal learning.
-- AI-assisted physical-system modeling.
-
-## 9. Citation
-
-If you use this dataset in your research, please cite the dataset publication.
-
-The DOI and formal citation will be added after the dataset has been archived in Zenodo.
-
-## 10. License
-
-The dataset license will be specified before the official public release.
-
-## 11. Contact
-
-For questions or further information concerning this dataset, please contact the authors through the associated research publication.
+Copyright © 2026 Ikram Ralem.
